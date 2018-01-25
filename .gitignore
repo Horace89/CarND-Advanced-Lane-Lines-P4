@@ -99,3 +99,22 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+.DS_Store
+
+traffic-signs-data.zip
+traffic-signs-data/
+
+#model checkpoints
+checkpoint
+leNet.*
+
+mac_sim.app/
+Behavioral Cloning Cheatsheet - CarND (1).pdf
+video.py
+
+writeup.ipynb
+
+data/
+run1/
+nd013b/
